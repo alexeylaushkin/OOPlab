@@ -1,0 +1,4 @@
+D:\3_курс\3_курс_2_сем\ООП\NoDbNoMigr\KLADobj.GeneralLogic.Tests\obj\Debug\netcoreapp3.1\KLADobj.GeneralLogic.Tests.csprojAssemblyReference.cache
+D:\3_курс\3_курс_2_сем\ООП\NoDbNoMigr\KLADobj.GeneralLogic.Tests\obj\Debug\netcoreapp3.1\KLADobj.GeneralLogic.Tests.AssemblyInfoInputs.cache
+D:\3_курс\3_курс_2_сем\ООП\NoDbNoMigr\KLADobj.GeneralLogic.Tests\obj\Debug\netcoreapp3.1\KLADobj.GeneralLogic.Tests.AssemblyInfo.cs
+D:\3_курс\3_курс_2_сем\ООП\NoDbNoMigr\KLADobj.GeneralLogic.Tests\obj\Debug\netcoreapp3.1\KLADobj.GeneralLogic.Tests.csproj.CoreCompileInputs.cache
