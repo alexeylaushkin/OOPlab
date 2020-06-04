@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ux/W1H/36NaL8briEFY2Wn3ZEAdv3IcfCmihKQ7PNELYheoQPCQZX8VCZF7kzC8zyZuf4Yjj46/1IkK57QqU/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Downloads\\Lab7\\NoDbNoMigr\\KLADobj.DesktopClient\\KLADobj.DesktopClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
